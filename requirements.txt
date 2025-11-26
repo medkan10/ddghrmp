@@ -1,0 +1,11 @@
+streamlit
+pandas
+sqlalchemy
+matplotlib
+bcrypt
+plotly
+altair
+openpyxl 
+gspread 
+pydrive2 
+google-auth-oauthlib
